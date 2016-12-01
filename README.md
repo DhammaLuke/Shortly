@@ -1,3 +1,3 @@
 # shortly
 
-## the un-official url shortener!
+## the un-official url shortener! :D
